@@ -1,5 +1,13 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.19-12
+
+訓練任務UI、甲板作業員の回り込み、スッポン自動片付け、初期操舵8/15からの学習調整を追加しました。
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/download/v2026.11.19-12/aerocannons-v2026.11.19-12.jar)
+- [使い方・実測・確認範囲](docs/carrier-training-v2026.11.19-12.md)
+
+
 Minecraft 1.21.1 / NeoForge用のAero Cannonsです。依存MODは含みません。古いAero Cannons JARと入れ替えてください。
 
 ## v2026.11.18-48
