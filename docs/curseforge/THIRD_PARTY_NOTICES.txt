@@ -1,0 +1,29 @@
+Aero Cannons - third-party notices and acknowledgements
+
+NeoForged MDK template
+The development project uses the NeoForged MDK template. Its MIT license
+is preserved in META-INF/licenses/NeoForged-MDK-MIT.txt. It applies to the
+original template files, not automatically to all Aero Cannons content.
+
+Separately installed dependencies and integrations
+Create, Create Big Cannons, Create Aeronautics, Sable, TFMG,
+Nepheria Gloud, CBC Military Supplement, CBC Terminal Ballistics,
+Shaolib, Sable Photomancy and other supported mods belong to their authors.
+This JAR does not bundle their JARs. Their names identify integrations;
+this project is not an official release or endorsement by their authors.
+Dependencies retain their own licenses.
+
+Create: https://github.com/Creators-of-Create/Create
+Create Big Cannons: https://github.com/Cannoneers-of-Create/CreateBigCannons
+Create Aeronautics: https://www.curseforge.com/minecraft/mc-mods/create-aeronautics
+TFMG: https://www.curseforge.com/minecraft/mc-mods/create-industry
+Nepheria Gloud: https://github.com/x-Myogame-x/Nepheria-gloud-Beta
+
+Artwork in v2026.11.19-15
+All 22 bundled gameplay texture PNGs have been replaced by newly drawn
+geometric designs. The generator reads no existing images, texture masks,
+or fonts. The project icon is a new geometric design, not a game screenshot.
+Source: tools/generate_aerocannons_public_assets.py
+Earlier texture-generation scripts are not used for this publication build.
+Block and item models may reference Minecraft's or dependency mods' models
+at runtime; the corresponding third-party textures are not copied here.

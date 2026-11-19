@@ -1,0 +1,156 @@
+{
+  "jar": "aerocannons-v2026.11.19-15.jar",
+  "sha256": "c3e1b9d5c4b94597877e1caa542a7cb1b8007430a30cd10781d13b4684821a5e",
+  "class_files_identical_to_base": 495,
+  "replaced_png_files": 22,
+  "nested_dependency_jars": 0,
+  "metadata_utf8_valid": true,
+  "metadata": {
+    "modLoader": "javafml",
+    "loaderVersion": "[4,)",
+    "license": "All Rights Reserved",
+    "mods": [
+      {
+        "modId": "aerocannons",
+        "version": "2026.11.19-15",
+        "displayName": "Aero Cannons",
+        "logoFile": "assets/aerocannons/icon.png",
+        "authors": "airtts97",
+        "description": "火砲・航空機・船舶・装甲・修理・デカールの独立版。"
+      }
+    ],
+    "mixins": [
+      {
+        "config": "aerocannons.mixins.json"
+      }
+    ],
+    "dependencies": {
+      "aerocannons": [
+        {
+          "modId": "neoforge",
+          "type": "required",
+          "versionRange": "[21.1.0,)",
+          "ordering": "NONE",
+          "side": "BOTH"
+        },
+        {
+          "modId": "minecraft",
+          "type": "required",
+          "versionRange": "[1.21.1,1.22)",
+          "ordering": "NONE",
+          "side": "BOTH"
+        },
+        {
+          "modId": "create",
+          "type": "required",
+          "versionRange": "[6.0.0,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "tfmg",
+          "type": "required",
+          "versionRange": "[1.2.0,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "createbigcannons",
+          "type": "required",
+          "versionRange": "[5.11.0,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "aeronautics",
+          "type": "required",
+          "versionRange": "[1.3.0,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "sable",
+          "type": "required",
+          "versionRange": "[2.0.3,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "cbc_terminal_ballistics",
+          "type": "optional",
+          "versionRange": "[0.3.5,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "cbcmoreshells",
+          "type": "optional",
+          "versionRange": "[2.1.4,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "nationindustry",
+          "type": "incompatible",
+          "versionRange": "[0,)",
+          "reason": "火砲・aero処理が重複するため、元のNation Industry jarを外してください。",
+          "ordering": "NONE",
+          "side": "BOTH"
+        },
+        {
+          "modId": "shaolib",
+          "type": "optional",
+          "versionRange": "[0.1.1]",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "shaolib_munitions",
+          "type": "optional",
+          "versionRange": "[0.1.0]",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "sable_schematic_api",
+          "type": "optional",
+          "versionRange": "[1.0.1]",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        },
+        {
+          "modId": "cbc_enhanced_shells",
+          "type": "optional",
+          "versionRange": "[1.2.2,)",
+          "ordering": "AFTER",
+          "side": "BOTH"
+        }
+      ]
+    }
+  },
+  "assets": {
+    "assets/aerocannons/textures/block/armor_block_brass.png": "a5d2c9f0a7852abf1b0b531fe86330738b1dbbd7e42629bac412d0c4d05b1211",
+    "assets/aerocannons/textures/block/armor_block_bronze.png": "72ca9c0d478429e5e65f56528e97e775240f251b6be3f16843034ebe4acb9b71",
+    "assets/aerocannons/textures/block/armor_block_cast_iron.png": "ab78641248e515735c1bb9692abd59f7c5d44dbb8b153b179eb993e410246437",
+    "assets/aerocannons/textures/block/armor_block_copper.png": "67e26d7176e2f5532bbb8f676c0d02503335613f13e2b235749a2e0e5787a829",
+    "assets/aerocannons/textures/block/armor_block_iron.png": "9d10e2dd09a50522311833a0c0f3ae7678b05c8bcb7e8dc6b6ab5b95d8da9ffc",
+    "assets/aerocannons/textures/block/armor_block_steel.png": "1e718ec3b42782742e04b45a7541726fc99f9162cfdadf8d3bb8ca40a1fc776e",
+    "assets/aerocannons/textures/block/deepslate_tin_ore.png": "40950a3ad07535a4897f54da7be5b1dc5171bf9317160d7ef02f534b1a8cf65d",
+    "assets/aerocannons/textures/block/tin_ore.png": "fb98b0f639dabf18eae398c51fb48946addb9b3cd5106e3f5e9cc6030a4818b5",
+    "assets/aerocannons/textures/item/armor_welding_torch.png": "f4a0584fe0fe274339b8b163487f32ea1fef62b8af37d5dd258ffbe9ee095da0",
+    "assets/aerocannons/textures/item/bronze_ingot.png": "4e752d97d9b7e5d4135f781e80ea3ee492474c9a83671110100facbf1245c1d7",
+    "assets/aerocannons/textures/item/bronze_nugget.png": "af05edb326d7cba72a70c2f26dd6e056398ea531366d162ca3cc60cde3669bc5",
+    "assets/aerocannons/textures/item/bronze_sheet.png": "52c2c15cbf95022a3b40b5aad8c324403426743e99766e8fe8dc21d870738d22",
+    "assets/aerocannons/textures/item/camouflage_spray.png": "e7385ed9e62e1c79372c45a456b5ae3b9aeda021612ac58ff9d9197d9c13a91d",
+    "assets/aerocannons/textures/item/raw_tin.png": "91af6bc86c5df960d3472c2a4420cf8f3548e280d5b91d4d3b32dd6883aac5da",
+    "assets/aerocannons/textures/item/steel_sheet.png": "4960425454cd8ee020b0a44690dfa4762d6485cfa7a720dafe0be20f4ea7c17c",
+    "assets/aerocannons/textures/item/tin_ingot.png": "bfe6c3f16e7bbd09005739df1f9ef7fdd27eac8172858859db63db4497151c00",
+    "assets/aerocannons/textures/item/vehicle_armor_segment_brass.png": "7832c11af6ab04a87b98ccafd9770dbc7ea0928dc00bd93ad191cc112ae77da8",
+    "assets/aerocannons/textures/item/vehicle_armor_segment_bronze.png": "6ebb53f0632de62e36f548cf0c1140cdfe6f7890f50912416a51d0a888a5f038",
+    "assets/aerocannons/textures/item/vehicle_armor_segment_cast_iron.png": "78e560be8eb01abc82357a266088d18af2a8a029736bc0c773c8c1c94d1578c3",
+    "assets/aerocannons/textures/item/vehicle_armor_segment_copper.png": "deecb5b68b51ba60a30ceb1005f689e71c458991195c3727bd1791915bcb8443",
+    "assets/aerocannons/textures/item/vehicle_armor_segment_iron.png": "a0edbf1c1da88da5c1de90904a4eb06177a4f4d6ef9088d036a9ac9fe8442634",
+    "assets/aerocannons/textures/item/vehicle_armor_segment_steel.png": "3e3d16b0dc64a943116b01a68605afaa1625c89f63206e472679145304efa85d",
+    "assets/aerocannons/icon.png": "3ddbbfbec67011eb537e9d9fc6d029bb0b2a3073314a3fa0f15dab1669f28de2"
+  }
+}

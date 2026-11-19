@@ -1,0 +1,5 @@
+Aero Cannons
+Copyright (c) 2026 airtts97
+All Rights Reserved.
+
+This notice applies to Aero Cannons original code and artwork. Third-party components and notices retain their respective licenses. This is not a license for the separately installed dependency mods.

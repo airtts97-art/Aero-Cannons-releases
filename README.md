@@ -10,6 +10,14 @@
 
 Minecraft 1.21.1 / NeoForge用のAero Cannonsです。依存MODは含みません。古いAero Cannons JARと入れ替えてください。
 
+## v2026.11.19-15 — publication candidate (Beta)
+
+公開準備用に全22枚のテクスチャを新規デザインへ差し替え、アイコン・権利表記を追加しました。ゲーム処理はv14と同一です。CurseForgeにはまだ提出していません。
+
+- [更新JARと提出準備ZIP](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.19-15)
+- [掲載文](docs/curseforge/PROJECT_DESCRIPTION.md)
+- [素材と検証範囲](docs/curseforge/ASSET_AUDIT.md)
+
 ## v2026.11.18-48
 
 機体設定のキー消失・編集消失を修正し、保存結果の確認を追加。帰還時の古い座標エラー表示を解消し、飛行中のSable機体専用読み込みと診断を追加しました。機体ごとの離陸・姿勢制御は調査中です。
