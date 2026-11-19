@@ -1,5 +1,13 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.19-16 — maximum-power cruise (Beta)
+
+通常移動・哨戒・攻撃の固定速度上限を撤廃。護衛は対象速度へ追従し、離着艦・回避時の速度制御は維持します。
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.19-16)
+- [挙動・検証範囲](docs/AERO_V2026_11_19_16.md)
+
+
 ## v2026.11.19-12
 
 訓練任務UI、甲板作業員の回り込み、スッポン自動片付け、初期操舵8/15からの学習調整を追加しました。
