@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-3 — 母艦全域の倉庫探索（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-3)
+- [変更点と昇降口の使い方](docs/AERO_V2026_11_21_3.md)
+
 ## v2026.11.21-2 — 乗り込み段差1.15（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-2)
