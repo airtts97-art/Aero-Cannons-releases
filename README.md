@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.20-12 — 通信士の空中線・自動同調（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-12)
+- [変更点と確認範囲](docs/AERO_V2026_11_20_12.md)
+
 ## v2026.11.20-11 — タフネス37装甲を重量化（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-11)
