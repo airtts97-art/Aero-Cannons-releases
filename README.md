@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.20-10 — カモスチールアーマー軽量化（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-10)
+- [変更点と確認範囲](docs/AERO_V2026_11_20_10.md)
+
 ## v2026.11.20-9 — コントローラーの倉庫・携行許可（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-9)
