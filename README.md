@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21 — 投下後の鉄柵撤去（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21)
+- [変更点と確認範囲](docs/AERO_V2026_11_21.md)
+
 ## v2026.11.20-15 — 着艦成功条件の緩和（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-15)
