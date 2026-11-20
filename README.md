@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.20-8 — 浸水処理・接続認証・試合機能（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-8)
+- [変更点・検証範囲・浮力の一時停止](docs/AERO_V2026_11_20_8.md)
+
+
 ## v2026.11.20-2 — UDP入力・乗員の向き・エンジンコスト（Beta）
 
 - [更新JARと検証範囲](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-2)
