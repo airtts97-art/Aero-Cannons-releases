@@ -1,5 +1,13 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.20 — network snapshot reduction (Beta)
+
+デカール・水面の同一内容の再送を省きます。変更・削除・再同期は維持し、Sable UDPには変更を加えていません。
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20)
+- [検証・変更点](docs/AERO_V2026_11_20.md)
+
+
 ## v2026.11.19-16 — maximum-power cruise (Beta)
 
 通常移動・哨戒・攻撃の固定速度上限を撤廃。護衛は対象速度へ追従し、離着艦・回避時の速度制御は維持します。
