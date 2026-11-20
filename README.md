@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-2 — 乗り込み段差1.15（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-2)
+- [変更点](docs/AERO_V2026_11_21_2.md)
+
 ## v2026.11.21 — 投下後の鉄柵撤去（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21)
