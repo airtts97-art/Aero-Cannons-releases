@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.20-2 — UDP入力・乗員の向き・エンジンコスト（Beta）
+
+- [更新JARと検証範囲](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.20-2)
+- [変更点](docs/AERO_V2026_11_20_2.md)
+
+
 ## v2026.11.20 — network snapshot reduction (Beta)
 
 デカール・水面の同一内容の再送を省きます。変更・削除・再同期は維持し、Sable UDPには変更を加えていません。
