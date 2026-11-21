@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-22 — 登録画面・構造体の許可・ネザースチール砲
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-22)
+- [仕様と確認範囲](docs/AERO_V2026_11_21_22.md)
+
+
 ## v2026.11.21-21 — 砲塔管理の担当NPC名表示（本番未適用）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-21)
