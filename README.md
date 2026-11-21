@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-14 — 艦内輸送と接地後の減速（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-14)
+- [仕様と確認範囲](docs/AERO_V2026_11_21_14.md)
+
 ## v2026.11.21-13 — 整理要員と弾薬運搬の経路（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-13)
