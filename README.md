@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-10 — 短い甲板からの発艦（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-10)
+- [原因・修正・実測結果](docs/AERO_V2026_11_21_10.md)
+
 ## v2026.11.21-9 — 整理牽引・梯子（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-9)

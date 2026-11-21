@@ -1,0 +1,89 @@
+{
+  "scope": "N aircraft copy, horizontal 35-block deck, real physics and NPC pilot control, no flight teleport/physics override",
+  "trials": {
+    "TakeoffFlight1121BaselineD": {
+      "samples": 61,
+      "start": {
+        "tick": 0,
+        "x": 16012.275287197426,
+        "y": 102.49801664872186,
+        "z": 16000.499995559452,
+        "blocked": false,
+        "service": false
+      },
+      "end": {
+        "tick": 240,
+        "x": 16075.347126728608,
+        "y": 38.32033690463725,
+        "z": 15998.199869272898,
+        "blocked": true,
+        "service": false
+      },
+      "minimum_y": 38.32033690463725,
+      "lift_gain": -64.1776797440846
+    },
+    "TakeoffFlight1121PatchedE": {
+      "samples": 61,
+      "start": {
+        "tick": 0,
+        "x": 16005.276269842145,
+        "y": 102.49819156240086,
+        "z": 16000.499997416337,
+        "blocked": false,
+        "service": false
+      },
+      "end": {
+        "tick": 240,
+        "x": 16259.652717398445,
+        "y": 149.07661022946698,
+        "z": 16002.157494590065,
+        "blocked": false,
+        "service": false
+      },
+      "minimum_y": 102.44571786023063,
+      "lift_gain": 46.57841866706612
+    },
+    "TakeoffFlight1121HoldF": {
+      "samples": 26,
+      "start": {
+        "tick": 0,
+        "x": 16012.27626559539,
+        "y": 102.49806686028435,
+        "z": 16000.499996206827,
+        "blocked": false,
+        "service": false
+      },
+      "end": {
+        "tick": 100,
+        "x": 16012.276267630685,
+        "y": 102.49810992509461,
+        "z": 16000.49999537266,
+        "blocked": true,
+        "service": true
+      },
+      "minimum_y": 102.49806686028435,
+      "lift_gain": 4.30648102565101e-05
+    },
+    "TakeoffFlight1121PatchedH": {
+      "samples": 61,
+      "start": {
+        "tick": 0,
+        "x": 16005.276277262386,
+        "y": 102.49835444560256,
+        "z": 16000.499973643235,
+        "blocked": false,
+        "service": false
+      },
+      "end": {
+        "tick": 240,
+        "x": 16259.450886217102,
+        "y": 149.29568293342922,
+        "z": 15997.372248780437,
+        "blocked": false,
+        "service": false
+      },
+      "minimum_y": 102.44761942355206,
+      "lift_gain": 46.79732848782666
+    }
+  }
+}
