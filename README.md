@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.22-3 — 乗艦用足場2スタック
+
+- [JAR・クライアントZIP](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.22-3)
+- [仕様と確認範囲](docs/AERO_V2026_11_22_3.md)
+
+
 ## v2026.11.22-2 — NPC復元・試合ロビー・Nepheria Gloud更新
 
 - [JAR・クライアントZIP](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.22-2)
