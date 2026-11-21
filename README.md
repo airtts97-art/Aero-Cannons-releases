@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-19 — 通信量削減・混合弾薬補充・甲板追従（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-19)
+- [仕様と確認範囲](docs/AERO_V2026_11_21_19.md)
+
 ## v2026.11.21-18 — 見張りチャット切替・着席観測（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-18)
