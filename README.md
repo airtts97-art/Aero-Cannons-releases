@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-21 — 砲塔管理の担当NPC名表示（本番未適用）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-21)
+- [仕様と確認範囲](docs/AERO_V2026_11_21_21.md)
+
+
 ## v2026.11.21-20 — 機関砲の最大補充・誘爆低減（本番未適用）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-20)
