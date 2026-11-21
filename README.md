@@ -1,5 +1,20 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-8 — 整理要員の歩行・乗員更新範囲（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-8)
+- [変更点と実測結果](docs/AERO_V2026_11_21_8.md)
+- [乗員のチャンク維持](docs/AERO_V2026_11_21_7.md)
+- [登録機体の検出と発艦整理要求](docs/AERO_V2026_11_21_6.md)
+
+
+## v2026.11.21-7 — 乗員の更新範囲・甲板機体の識別（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-7)
+- [変更点と確認範囲](docs/AERO_V2026_11_21_7.md)
+- [甲板の整理要求・経路確認](docs/AERO_V2026_11_21_6.md)
+
+
 ## v2026.11.21-3 — 母艦全域の倉庫探索（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-3)
