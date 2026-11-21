@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-16 — 整理要員のドレイン給油（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-16)
+- [仕様と確認範囲](docs/AERO_V2026_11_21_16.md)
+
 ## v2026.11.21-14 — 艦内輸送と接地後の減速（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-14)
