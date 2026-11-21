@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-18 — 見張りチャット切替・着席観測（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-18)
+- [仕様と確認範囲](docs/AERO_V2026_11_21_18.md)
+
 ## v2026.11.21-17 — 発艦方向の確認・コンパクト砲架（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-17)
