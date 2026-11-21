@@ -1,5 +1,10 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-9 — 整理牽引・梯子（Beta）
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-9)
+- [変更点と確認範囲](docs/AERO_V2026_11_21_9.md)
+
 ## v2026.11.21-8 — 整理要員の歩行・乗員更新範囲（Beta）
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-8)
