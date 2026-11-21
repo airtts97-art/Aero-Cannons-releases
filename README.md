@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.21-23 — 補助エンティティ許可・超過部品の調整
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-23)
+- [仕様と確認範囲](docs/AERO_V2026_11_21_23.md)
+
+
 ## v2026.11.21-22 — 登録画面・構造体の許可・ネザースチール砲
 
 - [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.21-22)
