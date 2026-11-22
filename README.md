@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.22-4 — 試合ワールド気圧4000m
+
+- [更新JAR・ZIP・データパック](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.22-4)
+- [確認範囲](docs/AERO_V2026_11_22_4.md)
+
+
 ## v2026.11.22-3 — 乗艦用足場2スタック
 
 - [JAR・クライアントZIP](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.22-3)
