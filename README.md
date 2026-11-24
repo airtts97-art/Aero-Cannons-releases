@@ -1,5 +1,11 @@
 # Aero Cannons ダウンロード
 
+## v2026.11.24 — 艦載機の駐機と事前補給・通信士の着席・着艦高さ
+
+- [更新JAR](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.24)
+- [仕様と確認範囲](docs/AERO_V2026_11_24.md)（v2026.11.23-5〜15 の内容も含みます）
+
+
 ## v2026.11.22-4 — 試合ワールド気圧4000m
 
 - [更新JAR・ZIP・データパック](https://github.com/airtts97-art/Aero-Cannons-releases/releases/tag/v2026.11.22-4)
